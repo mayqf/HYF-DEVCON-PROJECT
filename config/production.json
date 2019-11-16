@@ -1,0 +1,6 @@
+{"mongoURI":"mongodb+srv://mustafa:M.a.1803@project-oscrz.mongodb.net/test?retryWrites=true",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"997f5e819ba02e0784c6",
+    "githubSecret":"6e1be21ac4ea2f5e4e52a491aa2ea07131951095"
+   }
+    
